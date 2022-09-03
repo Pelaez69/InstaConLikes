@@ -1,0 +1,84 @@
+.cartablanca {
+    display: flex;
+    position: relative;
+    box-shadow: 7px 6px 7px 1px rgba(0, 0, 0, 0.4);
+    width: 380px;
+    height: 480px;
+    margin: 100px;
+}
+.imagenprincipal {
+    
+    width: 278px;
+    height: 265px;
+    position: absolute;
+    top: 75px;
+    left: 50px;
+}
+.nick {
+    
+    color: black;
+    font-family: Arial;
+    font-size: 16px;
+    position: absolute;
+    top: 20px;
+    left: 80px;
+}
+.nick2 {
+    
+    color: black;
+    font-family: Arial;
+    font-size: 16px;
+    position: absolute;
+    top: 390px;
+    left: 50px;
+}
+/*///////////////////////////////////////////////////////*/
+.globo {
+
+    height: 40px;
+    position: absolute;
+    top: 335px;
+    left: 70px;
+}
+.guardado {
+
+    height: 35px;
+    position: absolute;
+    top: 340px;
+    left: 290px;
+}
+.puntos {
+
+    height: 35px;
+    position: absolute;
+    top: 340px;
+    left: 180px;
+}
+.mensaje {
+
+    height: 35px;
+    position: absolute;
+    top: 340px;
+    left: 115px;
+}
+.perfil {
+
+    height: 45px;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+.likes {
+
+    position: absolute;
+    top: 500px;
+    left: 500px;
+}
+.views {
+    color: black;
+    font-family: Arial;
+    font-size: 10px;
+    position: absolute;
+    top: 420px;
+    left: 50px;
+}
